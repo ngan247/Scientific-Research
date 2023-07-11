@@ -6,8 +6,8 @@ We propose a blockchain interoperability based on sidechain solution to support 
 This is the demo code of the transfer data function and Valid Time Key function of our cross-chain system.
 
 ## Our team:
-* Nguyễn Bùi Kim Ngân (@ngan247)
+* [Nguyễn Bùi Kim Ngân](https://github.com/ngan247)
   
 * [Nguyễn Bình Thục Trâm](https://github.com/Bingtoni2122)
   
-* Võ Anh Kiệt (@anhkiet1227)
+* [Võ Anh Kiệt](https://github.com/anhkiet1227)
