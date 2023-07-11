@@ -8,6 +8,6 @@ This is the demo code of the transfer data function and Valid Time Key function 
 ## Our team:
 * Nguyễn Bùi Kim Ngân (@ngan247)
   
-* [Nguyễn Bình Thục Trâm](@Bingtoni2122)
+* [Nguyễn Bình Thục Trâm](https://github.com/Bingtoni2122)
   
 * Võ Anh Kiệt (@anhkiet1227)
